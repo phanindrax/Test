@@ -9,3 +9,5 @@ c = a + b;
 
 print("c=%d\n", c);
 
+print("a=%d\n", a);
+
